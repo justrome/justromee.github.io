@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+<br><a href="https://justrome.org/">Justrome</a> Thủ Thuật máy tính và phần mền cung cấp các thông tin cập nhật. Các tài liệu học về phần mền, Các thủ thuật hay về máy tính được các chuyên viên về máy tính đưa ra. Ngoài ra còn đưa ra các lập luận, review của nhiều người đã sử dụng để đánh giá các sản phẩm phần mềm đã và đang được sử dụng nhiều tại cộng đồng.
+<br>Phone: 0793178218, 
+<br>Email: Justrome.org@gmail.com,
+<br>Address:  178 Nguyễn Oanh, Phường 7, Gò Vấp, Tp. Hồ Chí Minh
+<br>website: https://justrome.org/
+<br>Chúng tôi đang tập chung vào các mảng:
 
-You can use the [editor on GitHub](https://github.com/justrome/justromee.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<br>Thủ Thuật Máy Tính : cung cấp các Tips mẹo sử lý các vấn đề của máy tính từ phần cứng đến phần mềm một cách chi tiết để mọi đối tượng không có nhiều kiến thức về công nghjee vẫn có thể thực hiện được.
+<br>Phần Mềm: Cung cấp các bản Download miễn phí, ngoài ra còn đựa ra các review công tâm, các bài viết hướng dẫn sử dụng chi tiết cho người mới bắt đâu.
+<br>Các cách xóa ứng dụng trên máy Win 10
+<br>Khi bạn có những phần mềm hoặc ứng dụng không còn cần dùng đến nữa, bạn nên xóa bớt để tránh nặng máy, chiếm dung lượng bộ nhớ, dễ dẫn đến tình trạng đứng máy hoặc máy bị chậm, gây ảnh hưởng đến quá trình làm việc và học tập.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/justrome/justromee.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<br>Nếu như trước đây bạn chỉ có thể gỡ cài đặt ứng dụng nhờ Control Panel, thì với hệ điều hành Win 10, việc gỡ cài đặt ứng dụng sẽ trở nên đơn giản hơn.
+Dưới đây là 3 cách xóa ứng dụng trên máy tính Win 10.
+<br>xem thêm:
+<br>https://justrome.tumblr.com/
+<br>https://www.pinterest.com/justromeorg/
+<br>https://www.reddit.com/user/justrome
+<br>https://weheartit.com/justromee
